@@ -1,4 +1,4 @@
-# 🚀 Ultimate Cyber Developer Profile
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFEE&center=true&vCenter=true&width=435&lines=Debugg3rDetected;Cyberpunk+Developer;Cyber+Security+Engineer;Open-Source+Enthusiast" alt="Typing SVG" />
 
 <!-- 1. Cyberpunk Banner -->
 <p align="center">
