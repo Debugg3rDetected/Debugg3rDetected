@@ -65,7 +65,7 @@
 
 ---
 
-## 🛠️ Tech Stack (with icons and badges)
+## 🛠️ Tech Stack
 
 ### **Programming Languages**
 <p>
@@ -96,7 +96,7 @@
 
 ---
 
-## 📊 GitHub Stats (including streak and trophies)
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debugg3rDetected&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -116,7 +116,7 @@
 
 ---
 
-## 📈 Weekly Development (as a code block)
+## 📈 Weekly Development
 
 ```text
 Python        🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   65%
@@ -128,7 +128,7 @@ HTML/CSS      🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜   10%
 
 ---
 
-## 🎯 Current Focus (badges)
+## 🎯 Current Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/🤖_AI_Development-00FFF7?style=for-the-badge"/>
@@ -139,7 +139,7 @@ HTML/CSS      🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜   10%
 
 ---
 
-## 📫 Connect With Me (buttons)
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramzi-alaich-1373b538a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -152,7 +152,7 @@ HTML/CSS      🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜   10%
 
 ---
 
-## 💻 Development Setup (code block)
+## 💻 Development Setup
 
 ```yaml
 Editor: VS Code
@@ -165,7 +165,7 @@ Version Control: Git + GitHub
 
 ---
 
-## 🎮 Fun Facts (Python code and list)
+## 🎮 Fun Facts
 
 ```python
 class Debugg3rDetected:
@@ -191,7 +191,7 @@ print(me.say_hi())
 
 ---
 
-## 📚 Learning Path (badges)
+## 📚 Learning Path
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine_Learning-00FFF7?style=for-the-badge"/>
@@ -202,7 +202,7 @@ print(me.say_hi())
 
 ---
 
-## 🏆 Achievements (badges)
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏅_Code_Quality-00FFF7?style=for-the-badge"/>
@@ -219,7 +219,7 @@ print(me.say_hi())
 
 ---
 
-## 🎵 Coding Vibes (badge)
+## 🎵 Coding Vibes
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎵_Coding_with-_Cyberpunk_Synthwave-00FFF7?style=for-the-badge"/>
